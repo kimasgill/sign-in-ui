@@ -1,5 +1,5 @@
 # sign-in-ui
 
-To view working sample of the Sign In UI, visit my codepen:
-[Sign In UI on Codepen](https://codepen.io/kimsim/full/GMRYmR/)
+To view the Sign In UI demo, please visit my codepen:
+[Sign In UI Demo](https://codepen.io/kimsim/full/GMRYmR/)
 

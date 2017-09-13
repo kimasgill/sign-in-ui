@@ -36,6 +36,10 @@ h2.ui.header{
   border-radius: 25px;
 }
 
+.ui.button:hover {
+  color: #fff;
+}
+
 .ui.button.gradient {
   background-image:
     linear-gradient(
